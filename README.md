@@ -11,7 +11,7 @@ Before diving into Cypress, ensure your system is equipped with the following pr
 
 Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/GameAnalyst-Hamza/Cypress-Practice.git
+   git clone https://github.com/Craftzman-Hamza/Cypress-Practice.git
    ```
 
 Checkout to Project directory:
